@@ -2,7 +2,7 @@ package core.basesyntax;
 
 import core.basesyntax.thread.Reader;
 import core.basesyntax.thread.Writer;
-//
+
 public class Main {
     public static void main(String[] args) {
         ReadWriteList<Integer> list = new ReadWriteList<>();
